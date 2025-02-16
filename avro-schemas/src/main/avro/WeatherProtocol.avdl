@@ -1,0 +1,10 @@
+@namespace("org.example.avro")
+protocol WeatherProtocol {
+
+    record WeatherEvent {
+        double latitude;
+        double longitude;
+        double temperature;
+        }
+
+}
