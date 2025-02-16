@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Avro/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Avro/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Producer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WeatherEventConsumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WeatherEventConsumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WeatherEventProducer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WeatherEventProducer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/avro-schemas/src/main/avro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/avro-schemas/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/avro-schemas/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka-avro-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka-avro-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka-avro-producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka-avro-producer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
